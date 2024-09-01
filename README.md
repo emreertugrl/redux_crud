@@ -57,7 +57,7 @@ To get started with development:
 
 ## Live Demo
 
-<a href="/">Netlify Project View</a>
+<a href="https://crudappreduxx.netlify.app/">Netlify Project View</a>
 
 ## API'ler
 
